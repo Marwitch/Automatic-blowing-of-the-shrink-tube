@@ -1,16 +1,15 @@
-### Hi there 👋
+# Automatic blowing of the shrink tube. V2 / Arduino Project
+Hi, to make my job easier, I invented the automatic blowing of cables into the shrinker. 
+It's very unusual, and there probably won't be a need to share the project in relation to simplicity.
 
-<!--
-**Marwitch/Marwitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# How it works
+- The arduino controls the steppers & fans
 
-Here are some ideas to get you started:
+# Demo video
+[![YT](https://i9.ytimg.com/vi/dxG2Tn5qU2s/mq3.jpg?sqp=CMjG8IwG&rs=AOn4CLBjXWkiQcTc1UZle3t6WQ-RxFHGMA)](https://www.youtube.com/watch?v=dxG2Tn5qU2s&ab_channel=MarkRose)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Assembly Bill of materials
+Most of the parts can be ordered on Aliexpress at a small cost, for a total of approx $30
+
+# Electronics Bill of materials
+If there is interest, I will add
